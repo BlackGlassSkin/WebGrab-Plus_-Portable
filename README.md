@@ -1,5 +1,6 @@
 # WebGrab-Plus_-Social
 Portable
 
-paste the "WebGrab+Plus" folder to C:\Users\user-name\AppData\Local\
+Create a WebGrab+Plus folder in C:\Users\user-name\AppData\Local\
+Paste the "WebGrab+Plus" folder content to C:\Users\user-name\AppData\Local\
 run from the WebGrab shortcut 
